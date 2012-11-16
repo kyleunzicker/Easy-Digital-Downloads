@@ -8,6 +8,7 @@ Requires at least: 3.2
 Tested up to: 3.5
 Stable Tag: 1.3.3
 
+CHANGE
 
 Sell digital downloads through WordPress with this complete digital downloads management plugin
 
